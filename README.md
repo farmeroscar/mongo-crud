@@ -1,6 +1,8 @@
 # mongo-crud
 
-[![Build Status](https://travis-ci.org/torchhound/mongo-crud.svg?branch=master)](https://travis-ci.org/torchhound/mongo-crud)
+#[![Build Status](https://travis-ci.org/torchhound/mongo-crud.svg?branch=master)](https://travis-ci.org/torchhound/mongo-crud)
+[![Build Status](https://travis-ci.com/farmeroscar/mongo-crud.svg?branch=master)](https://travis-ci.com/farmeroscar/mongo-crud)
+
 
 A CRUD API built with MongoDB and Express.
 
